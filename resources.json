@@ -1,0 +1,581 @@
+{
+  "resources": [
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio",
+      "type": "document"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/002b8065d421f8fb.runtime.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/71eea48b30299b4c.en-GB.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/bc12dbc311168fdc.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/a0684b0780c739e9.vendor.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/static_font_4.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/c0feee7212ef7ec1.i3d79q.vendor.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/a5be30db0544442d.strings.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/a975461ea63683b9.vendor.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/dfe08e3f8c23421b.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/b0f6a6981c338e89.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/82a10fe01b3171ad.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fc141f4d5e5f0ce6.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/35e14d7370a7706e.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/4878e9aab965ea40.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/c26b2c36671e4247.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/18e6498382718900.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/106ff6d2a1d1c94c.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fc0670fecc794e70.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/1fdec8a150b422f8.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/996971f1d8399491.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/678d2e0b76fbaf3b.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/6f3861216aadd31a.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/3e1535b414fb4458.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/51bf1078e2a9204c.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/037addac6ab992ee.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/dc93e8e5064871bf.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/images/b46630e470f4040eba7033cf2435edce.woff",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/231be3ffc7c6c4097c168cdd1fbd7816.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/88408be201e61178.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/9146fcdd08c02970.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/0b59fd3d725cb61a.vendor.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/7bd9b4b1614b8dde864c532d4a6ad402.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/60d885a4e30d1ead5c81a4981ec475d3.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/4942dcecfde4be5f.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/d4a9acd86b605fd620a05a9ebe4efa16.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_footer?lang=en-GB",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/5b7fe8f909b06739.ltr.css",
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/9d0deaa73604482d989d28a4abc20370.png",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b5a3528a25e5b3872b14176a42208c42.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/b3ebf62f8ff8ae950dea860d56c49d1b.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/569086aaaf15784082758d6a39803022.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/d257a7100844bc3f98c9021168b6249e.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/98c4d2c0223fc8474641c77f923528e9.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/1060345c54d396e76d73f1da7ee200bd.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png",
+      "type": "other"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/764f25de5868dbceef81542f2b05b43a.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/f8f199f09526f79e87644ed227e0f651.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/b86577c00308435b.js",
+      "type": "script"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/b9bd1d6407f892a4255afaaa295bdcb7.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/99405daa7c889a2bff3abffaa2511903.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/17615d4f44e8b92b0041f6c71b60589c.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/be313904f6ea7750cc5a5dbf4f501aee.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/76aeb27fed82bcef5eabd1815e1105c7.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b46b26178955144f001cf366006de994.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/0f8910d031bf3fc5cc6b50310d34d481.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/ee760a1f996eda36fce5cd447a8add7c.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/f4ac5b3926e2427644616102908b4774.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/3b200a0181be470dd09a5d08595f1e99.png",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/24b3b0c48d90afe42f2ebd45a95fd647.png",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/0b99c8cd352bd9e79112e54b16a6b3d5.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/7bf50ae3689890e2e043db605a0f8dd3.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/3768abb09fab66d937ab950f11c41e31.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/images/cff149ee1e9d2be50ac77bcd86769d05.woff2",
+      "type": "font"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/2ecfb762c94fadd42e6a730f6326cd7f.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/c9b47c9444beed8ba44c9a1b504c8a19.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/73ff8600249060670abfe296a4470b18.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/594f48045f46260276894eb1e819a3a3.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/42ff595ed3bd696774e597bebaa4f29e.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b5cc75db2b555cd87e391bec04c385ad.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/37cd991dd3b738e591ac36144e19fb42.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/17615d4f44e8b92b0041f6c71b60589c.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/76aeb27fed82bcef5eabd1815e1105c7.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/0f8910d031bf3fc5cc6b50310d34d481.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/ee760a1f996eda36fce5cd447a8add7c.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/0b99c8cd352bd9e79112e54b16a6b3d5.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/7bf50ae3689890e2e043db605a0f8dd3.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/be313904f6ea7750cc5a5dbf4f501aee.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/f4ac5b3926e2427644616102908b4774.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/3768abb09fab66d937ab950f11c41e31.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b46b26178955144f001cf366006de994.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/a8b40d06a0b5bb9e3f1da09d9a517097.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/bb05219bf6b0cf0261cef2e36f2c170d.svg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/bb05219bf6b0cf0261cef2e36f2c170d.svg",
+      "type": "xhr"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/c9b47c9444beed8ba44c9a1b504c8a19.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/73ff8600249060670abfe296a4470b18.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b5cc75db2b555cd87e391bec04c385ad.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/594f48045f46260276894eb1e819a3a3.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/42ff595ed3bd696774e597bebaa4f29e.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/37cd991dd3b738e591ac36144e19fb42.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/5f7c4f09314edea522c31efd8bfa281e.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748808856159",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/c2ffc92d31e0017a3834c37e43fc02e7.png",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/b7961435987c7d006a8be13f08a2d42c.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/a8b40d06a0b5bb9e3f1da09d9a517097.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748808885101",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748808920862",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/5f7c4f09314edea522c31efd8bfa281e.jpg",
+      "type": "image"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748808946134",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748808982722",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748809015049",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748809051224",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748809070527",
+      "type": "fetch"
+    },
+    {
+      "url": "https://vervestudio.my.canva.site/_online?1748809105744",
+      "type": "fetch"
+    }
+  ],
+  "media": {
+    "images": [
+      "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/9d0deaa73604482d989d28a4abc20370.png",
+      "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/b9bd1d6407f892a4255afaaa295bdcb7.jpg",
+      "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/2ecfb762c94fadd42e6a730f6326cd7f.jpg",
+      "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/99405daa7c889a2bff3abffaa2511903.jpg",
+      "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/3b200a0181be470dd09a5d08595f1e99.png",
+      "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/24b3b0c48d90afe42f2ebd45a95fd647.png",
+      "blob:https://vervestudio.my.canva.site/743ffc1d-8c4e-486a-94b2-b67ef6b71315",
+      "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/b7961435987c7d006a8be13f08a2d42c.jpg",
+      "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/c2ffc92d31e0017a3834c37e43fc02e7.png"
+    ],
+    "videos": [
+      "blob:https://vervestudio.my.canva.site/51e24a7a-e190-41ce-8c45-1ef42391ef5f",
+      "blob:https://vervestudio.my.canva.site/ddbc2b56-a411-430c-9446-477fd70adc0f",
+      "blob:https://vervestudio.my.canva.site/4afc5fbd-ff29-4cc3-9bff-5ab565370d86",
+      "blob:https://vervestudio.my.canva.site/32654d28-cbee-4714-9757-9b33804440f9",
+      "blob:https://vervestudio.my.canva.site/38161ed6-6f3d-43ec-86fd-40d27dda8624",
+      "blob:https://vervestudio.my.canva.site/9f51a8e4-6126-423d-938d-8c9a47c5ced3",
+      "blob:https://vervestudio.my.canva.site/f40fcb45-0786-4bd8-b4ba-4416beaff008",
+      "blob:https://vervestudio.my.canva.site/8e7dd56a-a2f7-4b17-81e9-3c6d58ea6359",
+      "blob:https://vervestudio.my.canva.site/0a656ae0-20c1-4f79-ad24-12addb56a9d8",
+      "blob:https://vervestudio.my.canva.site/e2dbfbe7-a762-4c94-b609-f7b76de4dc0c",
+      "blob:https://vervestudio.my.canva.site/4ed2b9e6-f377-4d39-a499-a5e421ded2c8",
+      "blob:https://vervestudio.my.canva.site/c41bbc30-e5ca-4a53-819e-350a667cfdbf",
+      "blob:https://vervestudio.my.canva.site/8a24a50d-586b-4f68-a20c-13a95b0e089d",
+      "blob:https://vervestudio.my.canva.site/efac0cf4-9d38-4912-8c10-1fd98a8a3291",
+      "blob:https://vervestudio.my.canva.site/b971b715-3cc6-46a7-ac0e-fa0ad32d6fc2",
+      "blob:https://vervestudio.my.canva.site/df9be827-1f8e-498b-9e22-3e223b810997",
+      "blob:https://vervestudio.my.canva.site/28600fa9-f401-4b07-b7a7-d99cda4c47d4",
+      "blob:https://vervestudio.my.canva.site/261c3243-81c7-47c1-b298-819bb1ca7989",
+      "blob:https://vervestudio.my.canva.site/1fb42a32-c911-4a1a-8620-d435d644f612"
+    ]
+  },
+  "imageMap": {
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/9d0deaa73604482d989d28a4abc20370.png": "./assets/images/image-0.png",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/b9bd1d6407f892a4255afaaa295bdcb7.jpg": "./assets/images/image-1.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/2ecfb762c94fadd42e6a730f6326cd7f.jpg": "./assets/images/image-2.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/99405daa7c889a2bff3abffaa2511903.jpg": "./assets/images/image-3.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/3b200a0181be470dd09a5d08595f1e99.png": "./assets/images/image-4.png",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/24b3b0c48d90afe42f2ebd45a95fd647.png": "./assets/images/image-5.png",
+    "blob:https://vervestudio.my.canva.site/743ffc1d-8c4e-486a-94b2-b67ef6b71315": "./assets/images/image-6.png",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/b7961435987c7d006a8be13f08a2d42c.jpg": "./assets/images/image-7.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/c2ffc92d31e0017a3834c37e43fc02e7.png": "./assets/images/image-8.png"
+  },
+  "videoMap": {
+    "blob:https://vervestudio.my.canva.site/51e24a7a-e190-41ce-8c45-1ef42391ef5f": "./assets/videos/video-0.mp4",
+    "blob:https://vervestudio.my.canva.site/ddbc2b56-a411-430c-9446-477fd70adc0f": "./assets/videos/video-1.mp4",
+    "blob:https://vervestudio.my.canva.site/4afc5fbd-ff29-4cc3-9bff-5ab565370d86": "./assets/videos/video-2.mp4",
+    "blob:https://vervestudio.my.canva.site/32654d28-cbee-4714-9757-9b33804440f9": "./assets/videos/video-3.mp4",
+    "blob:https://vervestudio.my.canva.site/38161ed6-6f3d-43ec-86fd-40d27dda8624": "./assets/videos/video-4.mp4",
+    "blob:https://vervestudio.my.canva.site/9f51a8e4-6126-423d-938d-8c9a47c5ced3": "./assets/videos/video-5.mp4",
+    "blob:https://vervestudio.my.canva.site/f40fcb45-0786-4bd8-b4ba-4416beaff008": "./assets/videos/video-6.mp4",
+    "blob:https://vervestudio.my.canva.site/8e7dd56a-a2f7-4b17-81e9-3c6d58ea6359": "./assets/videos/video-7.mp4",
+    "blob:https://vervestudio.my.canva.site/0a656ae0-20c1-4f79-ad24-12addb56a9d8": "./assets/videos/video-8.mp4",
+    "blob:https://vervestudio.my.canva.site/e2dbfbe7-a762-4c94-b609-f7b76de4dc0c": "./assets/videos/video-9.mp4",
+    "blob:https://vervestudio.my.canva.site/4ed2b9e6-f377-4d39-a499-a5e421ded2c8": "./assets/videos/video-10.mp4",
+    "blob:https://vervestudio.my.canva.site/c41bbc30-e5ca-4a53-819e-350a667cfdbf": "./assets/videos/video-11.mp4",
+    "blob:https://vervestudio.my.canva.site/8a24a50d-586b-4f68-a20c-13a95b0e089d": "./assets/videos/video-12.mp4",
+    "blob:https://vervestudio.my.canva.site/efac0cf4-9d38-4912-8c10-1fd98a8a3291": "./assets/videos/video-13.mp4",
+    "blob:https://vervestudio.my.canva.site/b971b715-3cc6-46a7-ac0e-fa0ad32d6fc2": "./assets/videos/video-14.mp4",
+    "blob:https://vervestudio.my.canva.site/df9be827-1f8e-498b-9e22-3e223b810997": "./assets/videos/video-15.mp4",
+    "blob:https://vervestudio.my.canva.site/28600fa9-f401-4b07-b7a7-d99cda4c47d4": "./assets/videos/video-16.mp4",
+    "blob:https://vervestudio.my.canva.site/261c3243-81c7-47c1-b298-819bb1ca7989": "./assets/videos/video-17.mp4",
+    "blob:https://vervestudio.my.canva.site/1fb42a32-c911-4a1a-8620-d435d644f612": "./assets/videos/video-18.mp4"
+  },
+  "jsAssets": [
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/002b8065d421f8fb.runtime.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/71eea48b30299b4c.en-GB.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/bc12dbc311168fdc.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/a0684b0780c739e9.vendor.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/static_font_4.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/c0feee7212ef7ec1.i3d79q.vendor.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/a5be30db0544442d.strings.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/a975461ea63683b9.vendor.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/dfe08e3f8c23421b.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/b0f6a6981c338e89.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/82a10fe01b3171ad.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fc141f4d5e5f0ce6.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/35e14d7370a7706e.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/4878e9aab965ea40.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/c26b2c36671e4247.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/18e6498382718900.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/106ff6d2a1d1c94c.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fc0670fecc794e70.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/1fdec8a150b422f8.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/996971f1d8399491.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/678d2e0b76fbaf3b.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/6f3861216aadd31a.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/3e1535b414fb4458.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/51bf1078e2a9204c.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/037addac6ab992ee.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/dc93e8e5064871bf.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/images/b46630e470f4040eba7033cf2435edce.woff",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/231be3ffc7c6c4097c168cdd1fbd7816.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/88408be201e61178.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/9146fcdd08c02970.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/0b59fd3d725cb61a.vendor.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/7bd9b4b1614b8dde864c532d4a6ad402.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/60d885a4e30d1ead5c81a4981ec475d3.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/4942dcecfde4be5f.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/d4a9acd86b605fd620a05a9ebe4efa16.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/5b7fe8f909b06739.ltr.css",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/9d0deaa73604482d989d28a4abc20370.png",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b5a3528a25e5b3872b14176a42208c42.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/b3ebf62f8ff8ae950dea860d56c49d1b.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/569086aaaf15784082758d6a39803022.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/d257a7100844bc3f98c9021168b6249e.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/98c4d2c0223fc8474641c77f923528e9.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/1060345c54d396e76d73f1da7ee200bd.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/764f25de5868dbceef81542f2b05b43a.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/fonts/f8f199f09526f79e87644ed227e0f651.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/b86577c00308435b.js",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/b9bd1d6407f892a4255afaaa295bdcb7.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/99405daa7c889a2bff3abffaa2511903.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/17615d4f44e8b92b0041f6c71b60589c.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/be313904f6ea7750cc5a5dbf4f501aee.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/76aeb27fed82bcef5eabd1815e1105c7.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b46b26178955144f001cf366006de994.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/0f8910d031bf3fc5cc6b50310d34d481.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/ee760a1f996eda36fce5cd447a8add7c.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/f4ac5b3926e2427644616102908b4774.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/3b200a0181be470dd09a5d08595f1e99.png",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/24b3b0c48d90afe42f2ebd45a95fd647.png",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/0b99c8cd352bd9e79112e54b16a6b3d5.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/7bf50ae3689890e2e043db605a0f8dd3.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/3768abb09fab66d937ab950f11c41e31.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/images/cff149ee1e9d2be50ac77bcd86769d05.woff2",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/2ecfb762c94fadd42e6a730f6326cd7f.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/c9b47c9444beed8ba44c9a1b504c8a19.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/73ff8600249060670abfe296a4470b18.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/594f48045f46260276894eb1e819a3a3.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/42ff595ed3bd696774e597bebaa4f29e.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b5cc75db2b555cd87e391bec04c385ad.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/37cd991dd3b738e591ac36144e19fb42.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/17615d4f44e8b92b0041f6c71b60589c.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/76aeb27fed82bcef5eabd1815e1105c7.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/0f8910d031bf3fc5cc6b50310d34d481.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/ee760a1f996eda36fce5cd447a8add7c.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/0b99c8cd352bd9e79112e54b16a6b3d5.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/7bf50ae3689890e2e043db605a0f8dd3.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/be313904f6ea7750cc5a5dbf4f501aee.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/f4ac5b3926e2427644616102908b4774.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/3768abb09fab66d937ab950f11c41e31.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b46b26178955144f001cf366006de994.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/a8b40d06a0b5bb9e3f1da09d9a517097.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/bb05219bf6b0cf0261cef2e36f2c170d.svg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/bb05219bf6b0cf0261cef2e36f2c170d.svg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/c9b47c9444beed8ba44c9a1b504c8a19.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/73ff8600249060670abfe296a4470b18.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/b5cc75db2b555cd87e391bec04c385ad.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/594f48045f46260276894eb1e819a3a3.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/42ff595ed3bd696774e597bebaa4f29e.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/37cd991dd3b738e591ac36144e19fb42.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/5f7c4f09314edea522c31efd8bfa281e.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/c2ffc92d31e0017a3834c37e43fc02e7.png",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/media/b7961435987c7d006a8be13f08a2d42c.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/a8b40d06a0b5bb9e3f1da09d9a517097.jpg",
+    "https://vervestudio.my.canva.site/welcome-to-your-verve-studio/_assets/video/5f7c4f09314edea522c31efd8bfa281e.jpg"
+  ]
+}
